@@ -9,5 +9,7 @@ To show you the power of this calculator, I've entered `2000/2001` which resulte
 ```
 >[!IMPORTANT]
 >Don't divide large numbers in this calculator as it'll make the calculator freeze (and that's its natural behaviour).
+## Preview Image
+![Capture](https://github.com/user-attachments/assets/af9ff304-b4a2-4cb7-b247-1d620b1dd57b)
 ## Extras
 This calculator uses [strcal](https://github.com/Amirreza-Ipchi-Haq/strcal) for its logic.
